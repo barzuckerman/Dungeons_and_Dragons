@@ -1,9 +1,9 @@
 # Dungeons_and_Dragons
-**Introduction**
+## Introduction
 
 In this project, we have implemented a single-player multi-level version of a Dungeons and Dragons board game. The player is trapped in a dungeon surrounded by enemies, and their goal is to fight through them and progress to the next level of the dungeon. The game follows object-oriented programming principles and coding conventions.
 
-**Gameplay**
+## Gameplay
 
 The game is played on a board similar to the one shown in Figure 1. The game board consists of a player, enemies of different types, walls, and empty areas that both players and enemies can walk through.
 
@@ -13,7 +13,7 @@ Free Areas: Represented by dots ".", indicating areas that are free to walk thro
 Walls: Represented by "#" symbols, blocking movement.
 The game is controlled via keyboard input. Each level consists of multiple rounds, where the player and enemies take turns performing actions. The level ends when all enemies are defeated, and the player progresses to the next level. The game continues until the player completes all levels or is defeated.
 
-**Getting Started**
+## Getting Started
 
 Download the JAR file: First, download the JAR file of the project, likely named "hw3_d_and_d.jar".
 Open Command Prompt and run the JAR file - type the following command in the Command Prompt:
@@ -26,10 +26,10 @@ Once the game is running, you'll likely be prompted to choose a player character
 
 Start Playing: After selecting a player character, you can start playing the game!
 
-**Contributing**
+## Contributing
 
 This project was developed by Bar Zuckerman and Yarden Levi.
 
-**License**
+## License
 
 This project is licensed as homework for BGU. All rights reserved.
