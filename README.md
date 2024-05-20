@@ -16,12 +16,16 @@ The game is controlled via keyboard input. Each level consists of multiple round
 
 **Getting Started**
 
-To run the game, follow these steps:
+Download the JAR file: First, download the JAR file of the project, likely named "hw3_d_and_d.jar".
+Open Command Prompt and run the JAR file - type the following command in the Command Prompt:
 
-Clone the repository to your local machine.
-Navigate to the directory containing the game files.
-Run the game by executing the main script.
-Choose a player character and start playing!
+java -jar hw3_d_and_d.jar <the path to the levels of the game>
+
+Replace <the path to the levels of the game> with the actual path to the levels of the game on your system. For example:
+
+Once the game is running, you'll likely be prompted to choose a player character from a list provided.
+
+Start Playing: After selecting a player character, you can start playing the game!
 
 **Contributing**
 
